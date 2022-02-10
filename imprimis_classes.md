@@ -1,10 +1,10 @@
 # Imprimis Class Improvement Plan
 Elijah S Cole, 2022
 
-* Game design is a gordian knot. Something can be simultaneously underpowered and overpowered. *
-* Pull one loop of the knot and a superficially unrelated one will come undone. *
-* Everything is connected in ways that can't be predicted, only explained after being observed. *
-* Think Braess's paradox. *
+*Game design is a gordian knot. Something can be simultaneously underpowered and overpowered.*
+*Pull one loop of the knot and a superficially unrelated one will come undone.*
+*Everything is connected in ways that can't be predicted, only explained after being observed.*
+*Think Braess's paradox.*
 
 ## Gameplay Loop
 * The gameplay loop is the atom of game design. *
