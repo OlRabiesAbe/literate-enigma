@@ -61,6 +61,7 @@ Change ideas:
 
 ## Demo
 *The Demo's role is to break blocks to open attack routes or destroy enemy cover, and to counter the Engie.*
+*Alternatively, the Demo could be the push class, leveraging his destructive ability to force his way through chokepoints.*
 
 Potential issue: the Demo fails his core role in that he can't break blocks as fast or faster than the Engie can place them.
 I'm not sure whether this is a real issue, we need to do some tests on this.
@@ -73,6 +74,10 @@ This isn't neccessarily a bad thing as if this weren't the case Demo could be OP
 A route to consider is giving the Demo more ways to interact with the environment or kill things.
 His primary weapon doubling as a blockbreaking tool might be too restrictive.
 
+Demo has potential as the dedicated breakthrough class too. His demogun can destroy impeding obstacles which would help with this.
+Though currently the time investement required for this is too much for him to do this well.
+He also would struggle with any sort of range, as his demogun has an arc.
+
 Change ideas:
 
 	Sticky nade gun
@@ -82,7 +87,7 @@ Change ideas:
 		-Sticky spam was a lethal noobcannon in TF2
 
 		-But sticky spam did help TF2 demoman stand toe to toe with the TF2 soldier, who was an objectively stronger class
-
+	
 
 ## Soldier
 *The Soldier's role is to muscle into enemy territory and to score kills.*
@@ -96,6 +101,8 @@ He needs both a nerf and a buff.
 The Soldier needs a signifcant downside. The TF2 soldier had extremely slow movement speed 
 and truly lethal weapons or classes in tactical shooters often come with some kind of movement penalty, 
 so that could be a good place to start.
+
+Another option is to make the Soldier a ranged lockdown class like TF2's sniper. Low hp would benefit this route.
 
 Change ideas:
 
@@ -129,6 +136,10 @@ Change ideas:
 
 		-Slow movement speed is a common goto to nerf powerful characters in other games
 	
-		
+	Lower hp
+
+		-Would incline soldier to be less of a muscle class and more of a lockdown class, which might be the nerf he needs	
+
+		-Would be less of a TF2 soldier and more of a TF2 sniper
 
 
