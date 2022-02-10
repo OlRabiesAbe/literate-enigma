@@ -25,6 +25,7 @@ Currently, Soldier is the strongest class yet is boring, while Demo and Engie ar
 The reason Soldier is boring is that he has no way to modify the environment.
 All classes need to have a way to interact with the destructable environment, or perhaps even multiple ways.
 We should consider giving the soldier a way to break blocks, and then balance the other classes from there
+
 I like the overheating-based ammo-stand-in system, it's interesting and unique and it works.
 That said it's unorthodox so it will likely interact with other FPS systems in unpredictable ways. In fact, it probably already is.
 How it interacts with everything else is something to keep in mind at all times.
@@ -38,8 +39,10 @@ How it interacts with everything else is something to keep in mind at all times.
 
 The issue with Engie is this: placing blocks isn't useful enough on its own to justify playing him.
 To fill his role effectively, he needs a way to break blocks too. Simply placing blocks feels like not enough.
+
 He might need a better weapon too: considering that combat is an integral part of the gameplay loop, 
 restricting the Engie to a secondary weapon for offense leaves him feeling like a non-class.
+
 There's also possibly an OP Engie strat:
 By spamming blocks at chokepoints, the engie can create raised no-man's lands that impede enemy movement to allow for easy kills.
 It's a question worth asking whether we should lean into or away from that.
@@ -61,10 +64,12 @@ Change ideas:
 
 Potential issue: the Demo fails his core role in that he can't break blocks as fast or faster than the Engie can place them.
 I'm not sure whether this is a real issue, we need to do some tests on this.
+
 As it stands, Demo *can* break the environment but anything more than superficial damage requires significant time and attention investment.
 The cooldown on the demogun, which is both his block breaking tool and his primary weapon, means he can't use it to break blocks without
 leaving himself open to attack and significantly reducing his ability to fight. 
 This isn't neccessarily a bad thing as if this weren't the case Demo could be OP, but it's something to keep in mind.
+
 A route to consider is giving the Demo more ways to interact with the environment or kill things.
 His primary weapon doubling as a blockbreaking tool might be too restrictive.
 
@@ -84,8 +89,10 @@ Change ideas:
 
 Soldier is the most powerful class since his primary is an instant kill near-perfectly-accurate railgun with very high fire-rate.
 This weapon might be too OP.
+
 Even though the Soldier might be OP, he also is too weak in that he can't modify the environment.
 He needs both a nerf and a buff.
+
 The Soldier needs a signifcant downside. The TF2 soldier had extremely slow movement speed 
 and truly lethal weapons or classes in tactical shooters often come with some kind of movement penalty, 
 so that could be a good place to start.
