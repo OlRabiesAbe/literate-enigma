@@ -35,6 +35,7 @@ How it interacts with everything else is something to keep in mind at all times.
 
 ## Engie
 *The Engie's role in the gameplay loop is to modify the terrain to further enable combat.*
+
 The issue with Engie is this: placing blocks isn't useful enough on its own to justify playing him.
 To fill his role effectively, he needs a way to break blocks too. Simply placing blocks feels like not enough.
 He might need a better weapon too: considering that combat is an integral part of the gameplay loop, 
@@ -57,6 +58,7 @@ Change ideas:
 
 ## Demo
 *The Demo's role is to break blocks to open attack routes or destroy enemy cover, and to counter the Engie.*
+
 Potential issue: the Demo fails his core role in that he can't break blocks as fast or faster than the Engie can place them.
 I'm not sure whether this is a real issue, we need to do some tests on this.
 As it stands, Demo *can* break the environment but anything more than superficial damage requires significant time and attention investment.
@@ -79,6 +81,7 @@ Change ideas:
 
 ## Soldier
 *The Soldier's role is to muscle into enemy territory and to score kills.*
+
 Soldier is the most powerful class since his primary is an instant kill near-perfectly-accurate railgun with very high fire-rate.
 This weapon might be too OP.
 Even though the Soldier might be OP, he also is too weak in that he can't modify the environment.
