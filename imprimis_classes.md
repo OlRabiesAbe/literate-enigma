@@ -70,20 +70,35 @@ The Soldier needs a signifcant downside. The TF2 soldier had extremely slow move
 and truly lethal weapons or classes in tactical shooters often come with some kind of movement penalty, 
 so that could be a good place to start.
 Change ideas:
+
 	Short range trench shovel
+
 		-Needs some kind of downside, maybe a prohibitive cooldown is a good start
+
 	Grenades
+
 		-Limited uses per life would work well with a round-based match system
+
 		-Could be challenging to code?
+
 		-Needs to be balanced carefully. 
+
 		-It should be able to make large enough changes to the environment to feel meaningful
+
 		-But can't be a fucking nuke either
+
 		-Maybe it shouldn't deal damage to enemies, only terrain?
+
 	Modification or replacement of railgun
+
 		-Railgun is possibly OP
+
 		-Changes or replacements to it are an avenue to explore
+
 	Slower movement speed
+
 		-The Soldier needs a significant downside so he isn't objectively the best class
+
 		-Slow movement speed is a common goto to nerf powerful characters in other games
 	
 		
