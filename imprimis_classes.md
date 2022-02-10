@@ -7,7 +7,7 @@ Elijah S Cole, 2022
 *Think Braess's paradox.*
 
 ## Gameplay Loop
-* The gameplay loop is the atom of game design. *
+*The gameplay loop is the atom of game design.*
 Second to second the gameplay is what will dominate the player's attention.
 All effective game dev starts by determining what the gameplay loop should be.
 Imprimis' gameplay loop will undoubtedly involve shooting enemies and modifying terrain.
@@ -23,17 +23,17 @@ We should consider giving the soldier a way to break blocks, and then balance th
 I like the overheating-based ammo-stand-in system, it's interesting and unique and it works.
 That said it's unorthodox so it will likely interact with other FPS systems in unpredictable ways. In fact, it probably already is.
 How it interacts with everything else is something to keep in mind at all times.
-* A round-based respawn system would make individual lives feel more meaningful, *
-* and thus make any advantage a class has over another also feel more signifcant. *
-* Though this would also make any differences in balancing more stark in contrast. *
+*A round-based respawn system would make individual lives feel more meaningful,*
+*and thus make any advantage a class has over another also feel more signifcant.*
+*Though this would also make any differences in balancing more stark in contrast.*
 
 ## Engie
-* The Engie's role in the gameplay loop is to modify the terrain to further enable combat. *
-	The issue with Engie is this: placing blocks isn't useful enough on its own to justify playing him.
+*The Engie's role in the gameplay loop is to modify the terrain to further enable combat.*
+The issue with Engie is this: placing blocks isn't useful enough on its own to justify playing him.
 To fill his role effectively, he needs a way to break blocks too. Simply placing blocks feels like not enough.
 He might need a better weapon too: considering that combat is an integral part of the gameplay loop, 
 restricting the Engie to a secondary weapon for offense leaves him feeling like a non-class.
-	There's also possibly an OP Engie strat:
+There's also possibly an OP Engie strat:
 By spamming blocks at chokepoints, the engie can create raised no-man's lands that impede enemy movement to allow for easy kills.
 It's a question worth asking whether we should lean into or away from that.
 A new weapon that's most effective at short range would help the engie to blockspam. 
@@ -45,10 +45,10 @@ Change ideas:
 		-Maybe he should have a short range trench shovel?
 
 ## Demo
-* The Demo's role is to break blocks to open attack routes or destroy enemy cover, and to counter the Engie. *
-	Potential issue: the Demo fails his core role in that he can't break blocks as fast or faster than the Engie can place them.
+*The Demo's role is to break blocks to open attack routes or destroy enemy cover, and to counter the Engie.*
+Potential issue: the Demo fails his core role in that he can't break blocks as fast or faster than the Engie can place them.
 I'm not sure whether this is a real issue, we need to do some tests on this.
-	As it stands, Demo *can* break the environment but anything more than superficial damage requires significant time and attention investment.
+As it stands, Demo *can* break the environment but anything more than superficial damage requires significant time and attention investment.
 The cooldown on the demogun, which is both his block breaking tool and his primary weapon, means he can't use it to break blocks without
 leaving himself open to attack and significantly reducing his ability to fight. 
 This isn't neccessarily a bad thing as if this weren't the case Demo could be OP, but it's something to keep in mind.
@@ -61,12 +61,12 @@ Change ideas:
 		-But sticky spam did help TF2 demoman stand toe to toe with the TF2 soldier, who was an objectively stronger class
 
 ## Soldier
-* The Soldier's role is to muscle into enemy territory and to score kills. *
-	Soldier is the most powerful class since his primary is an instant kill near-perfectly-accurate railgun with very high fire-rate.
+*The Soldier's role is to muscle into enemy territory and to score kills.*
+Soldier is the most powerful class since his primary is an instant kill near-perfectly-accurate railgun with very high fire-rate.
 This weapon might be too OP.
 Even though the Soldier might be OP, he also is too weak in that he can't modify the environment.
 He needs both a nerf and a buff.
-	The Soldier needs a signifcant downside. The TF2 soldier had extremely slow movement speed 
+The Soldier needs a signifcant downside. The TF2 soldier had extremely slow movement speed 
 and truly lethal weapons or classes in tactical shooters often come with some kind of movement penalty, 
 so that could be a good place to start.
 Change ideas:
